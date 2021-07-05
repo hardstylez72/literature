@@ -9,3 +9,7 @@
 ## Useful non-tech books:
 1) Ego Is the Enemy [Ryan Holiday]
 2) Success Under Stress [Sharon Melnick]
+
+## Resources
+1) https://github.com/jwasham/coding-interview-university 
+2) https://argoproj.github.io/argo-cd/
