@@ -10,6 +10,10 @@
 ## Useful non-tech books:
 1) Ego Is the Enemy [Ryan Holiday]
 2) Success Under Stress [Sharon Melnick]
+3) Nonviolent Communication: A Language of Life: Life-Changing Tools for Healthy Relationships [Marshall B. Rosenberg PhD]
+4) «Планета нервных» [Мэтта Хейг]
+5) Эссенциализм: Путь к простоте [Грег МакКеон]
+6) Включаем обаяние по методике спецслужб [Джек Шафер и Марвин Карлинс]
 
 ## Resources
 1) https://github.com/jwasham/coding-interview-university 
